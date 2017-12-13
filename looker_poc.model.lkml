@@ -1,4 +1,4 @@
-connection: "zotos_dbdev1"
+connection: "dar-dbdev1"
 
 # include all the views
 include: "*.view"
